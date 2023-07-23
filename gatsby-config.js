@@ -7,11 +7,11 @@ var config = {
         // You can overwrite values here that are used for the SEO component
         // You can also add new values here to query them like usual
         // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.mjs
-        siteTitle: "this is me",
+        siteTitle: "Yagna",
         siteTitleAlt: "Yagna Patel",
         siteHeadline: "Yagna Patel Portfolio",
-        siteUrl: "https://minimal-blog.lekoarts.de",
-        siteDescription: "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
+        siteUrl: "https://yagna.site/",
+        siteDescription: "A digital garden of sorts",
         siteImage: "static\banner.jpg",
         siteLanguage: "en",
         author: "@Yagna",
