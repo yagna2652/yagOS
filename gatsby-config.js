@@ -46,13 +46,30 @@ var config = {
                 output: "/",
             },
         },
+        module.exports = {
+            plugins: [
+              {
+                resolve: `gatsby-omni-font-loader`,
+                options: {
+                  enableListener: true,
+                  preconnect: [`https://fonts.googleapis.com`, `https://fonts.gstatic.com`],
+                  web: [
+                    {
+                      name: `Open Sans`,
+                      file: `https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap`,
+                    },
+                  ],
+                },
+              },
+            ]
+          },
         {
             resolve: "gatsby-plugin-manifest",
             options: {
                 name: "minimal-blog - @lekoarts/gatsby-theme-minimal-blog",
                 short_name: "minimal-blog",
                 description: "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.",
-                start_url: "/",
+                start_url: "https://yagna.site/",
                 background_color: "#fff",
                 // This will impact how browsers show your PWA/website
                 // https://css-tricks.com/meta-theme-color-and-trickery/
