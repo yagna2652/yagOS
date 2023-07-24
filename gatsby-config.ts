@@ -37,7 +37,7 @@ const config: GatsbyConfig = {
             slug: `/about`,
           },
           {
-            title: `Projcts`,
+            title: `Projects`,
             slug: `/Projects`,
           }
         ],
