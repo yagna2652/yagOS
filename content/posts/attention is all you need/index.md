@@ -5,7 +5,7 @@ tags:
   - Breakdown
 ---
 
-Few days ago I was trying to how transformers work. I came across this beautiful paper called [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf). In this post, I'll try to write the simplest possible explanation of the paper.
+Few days ago I was trying to understand how transformers work. I came across this beautiful paper called [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf). In this post, I'll try to write the simplest possible explanation of the paper.
 
 
 Okay, here's my attempt!
