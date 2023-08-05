@@ -2,7 +2,7 @@
 title: Attention is all you need
 date: 2023-08-05
 tags:
-  - Breakdown
+  - ELI5
 ---
 
 Few days ago I was trying to understand how transformers work. I came across this beautiful paper called [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf). In this post, I'll try to write the simplest possible explanation of the paper.
