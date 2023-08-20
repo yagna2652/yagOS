@@ -1,8 +1,8 @@
 ---
 title: This week in training - First edition
 date: 2023-08-20
-tags: TWIT
-  - 
+tags: 
+  - TWIT
 ---
 
 This week in training, I have picked up momentum again. I highly recommend keeping momentum as a goal, if you are not training for something specific. Because then you will be training to keep the ball rolling. You are stacking wins. Being consistently good is far better than being ocassionally great.
