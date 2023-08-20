@@ -1,6 +1,6 @@
 ---
 title: This week in training - First edition
-date: 2023-03-20
+date: 2023-08-20
 tags: TWIT
   - 
 ---
