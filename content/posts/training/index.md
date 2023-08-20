@@ -1,7 +1,7 @@
 ---
 title: This week in training - First edition
 date: 2023-03-20
-tags:
+tags: TWIT
   - 
 ---
 
