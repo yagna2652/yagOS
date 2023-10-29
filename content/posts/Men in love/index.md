@@ -26,5 +26,3 @@ A man in love with a woman doesn't see her objectively. There is a filter there,
 Go watch a happy old couple that's been married for decades. Watch the man's eyes. Sure, he may appreciate some young woman's ass in yoga pants or whatever...but watch his eyes when he's looking at his spouse. If you're paying close enough attention, you can almost see the filter click on when his gaze settles on her. In that moment, he's not seeing the same frumpy empty-nester that you or I see - he's seeing something wonderful.
 
 No shit. If I hadn't lived this stuff, I wouldn't believe it either. But it's true. 
-
-To all the men in love reading this; See you at night on our respective terraces, when we try find faces of our beloved in moon.
