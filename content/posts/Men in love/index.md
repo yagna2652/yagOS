@@ -5,7 +5,10 @@ tags:
   - Ramblings
 ---
 
-Generally, I think men in love get a very little representation. You never hear from a man who is in love because they are busy loving. I might be at one such crossroad and I want to pen it down before I drown in that feeling. Whatever you read here is me screaming without making noise.
+
+
+Generally, I think men in love get a very little representation. You never hear from a man who is in love because they are busy loving. I might be at one such crossroad and I want to pen it down before I drown in that feeling. "Sukoon milta hain do lafz kagaz par utaar kar, Cheekh bhi leta hun or awaz bhi nahi hoti". These lines by Piyush Mishra capture essence of "Why?" for me.
+It loses it's beauty when translated but for non - Hindi speakers here it is "I find peace in pouring words onto paper, I scream without making a sound…"
 
 Anyway...I wish I could let you into a man's head as he's falling in love with a woman. It's a process that's so alien, so strange, that I'm afraid you've got to experience it to believe it. But it's as real as death and taxes....
 Sometimes, a guy will meet a girll and think nothing of it. Maybe she's a co-worker, classmate, or his buddy's friend. She gets mentally categorized as "Female, acquaintance, feelings neutral". Then, he gets to know her better. If they mesh personality-wise, something fascinating happens in the man's mind. He starts to notice things about her appearance - pleasant things. It starts small - one day he realizes he likes looking at the curve of her nose, or where her ear lobe meets her face.
