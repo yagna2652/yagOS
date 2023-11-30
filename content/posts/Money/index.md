@@ -11,7 +11,7 @@ First you need to understand the basic of inflation. Currency and wealth are not
 
 Wealth is created all the time. I buy a 100$ axe to cut down tree and sell those three for 2000$. The lumber mill transform those tree into plank and sell those plank for 10k$. The builder use those plank to build an house that he can sell for 100k$. Wealth come from work and natural resources.
 
-If wealth increase over time and you never print new currency, the law of supply and demand will do it thing. More wealth = people will want to trade that wealth more = people will need more currency to do those trade = the value of the currency increase. That's deflation.
+If wealth increase over time and you never print new currency, the law of supply and demand will do it's thing. More wealth = people will want to trade that wealth more = people will need more currency to do those trade = the value of the currency increase. That's deflation.
 
 Now in the past, economist view deflation as the cause of economic collapse. Since then, studies show that it's not really the case. A lot of deflation is bad, but deflation from time to time won't automatically create a recession. Still deflation can cause some problem in the long term. The ideal solution would be create enough currency to match exactly the new wealth created. That way, the value of the currency would stay stable. The problem is that it's impossible to achieve. We can't really estimate the exact amount of wealth created. So the question is do we target zero inflation and we risk to sometime have a bit of inflation and sometime a bit of deflation. Or do we target a bit of inflation or do we target a bit of deflation.
 
