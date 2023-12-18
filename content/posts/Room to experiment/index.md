@@ -5,7 +5,6 @@ tags:
   - Ramblings
 ---
 
-(./img.jpg)
 In the brilliant film Ex Machina the following exchange between two protagonists stuck with me:
 
 Nathan: You know this guy, right? — Jackson Pollock. — Jackson Pollock. That’s right. The drip painter. Okay. He let his mind go blank, and his hand go where it wanted. Not deliberate, not random. Some place in between. They called it automatic art. Let’s make this like Star Trek, okay? Engage intellect.
