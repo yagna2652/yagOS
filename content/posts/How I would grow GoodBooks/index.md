@@ -5,7 +5,7 @@ tags:
   - Ramblings
 ---
 
-Good Books is a curated collection of book recommendations from the world's most successful people.
+[Good books](https://www.goodbooks.io/) is a curated collection of book recommendations from the world's most successful people.
 
 The team behind the project analyzed, handpicked and organized thousands of books into categories, with new ones added every month.
 
