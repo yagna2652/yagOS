@@ -1,6 +1,6 @@
 ---
 title: Why are newspapers and magazines a relevant mode of marketing?
-date: 2023-01-09
+date: 2024-01-09
 tags:
   - ELI5
 ---
