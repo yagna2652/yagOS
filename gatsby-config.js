@@ -11,8 +11,7 @@ var config = {
         siteTitleAlt: "Yagna Patel",
         siteHeadline: "Yagna Patel Portfolio",
         siteUrl: "https://yagna.site/",
-        siteDescription: "A digital garden of sorts",
-        siteImage: "static\banner.jpg",
+        siteDescription: "a growth-driven product designer, with affinities for all things from programming to musical theatre." 
         siteLanguage: "en",
         author: "@Yagna",
     },
