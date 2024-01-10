@@ -1,5 +1,5 @@
 ---
-title: This week in training - First edition
+title: this week in training (1)
 date: 2023-08-20
 tags: 
   - TWIT
